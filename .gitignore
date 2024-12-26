@@ -1,0 +1,31 @@
+**/__pycache__
+runs/
+.vscode/
+output/
+output2/
+# SAM/
+# openai/
+# LLaVA-Lightning-7B-v1-1/
+llava/
+llama-7b/
+liuhaotian/
+wandb/
+refcocog_val_bbox/
+refcocog_val_orig/
+refcoco_testA_bbox/
+refcoco*
+pic/
+ref/
+utils/reason_val_gt/
+avs/
+img_ref/
+ref_inv/
+.ipynb_checkpoints/
+*.png
+*.jpg
+*.wav
+*.pth
+*.gz
+utils/PhraseCutDataset/
+*.json
+*.ipynb
